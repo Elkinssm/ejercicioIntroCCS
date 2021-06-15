@@ -1,0 +1,75 @@
+body {
+  font-family: "Times New Roman", Times, serif;
+  background-color: aliceblue;
+}
+
+#cabeza {
+  background-color: #e5e5e5;
+  color: #005677;
+  text-align: center;
+}
+
+#principal {
+  width: 1041px;
+  height: 459px;
+  margin: 0 auto;
+  margin-top: 104px;
+  margin-bottom: 100px;
+}
+
+#pie {
+  text-align: center;
+  width: auto;
+  height: 40px;
+  justify-content: center;
+  background-color: #005677;
+}
+
+.curriculum {
+  height: 60px;
+  background-color: #c4c4c4;
+  width: auto;
+  height: 30px;
+}
+
+h2 {
+  width: auto;
+  height: 30px;
+  background-color: #c4c4c4;
+  color: #005677;
+}
+
+ul li {
+  list-style: none;
+}
+
+.img_footer {
+  width: 20px;
+  height: 20px;
+}
+
+h3 {
+  margin-bottom: 10px;
+  text-align: center;
+}
+
+.titulo-datos {
+  font-style: italic;
+  font-weight: bold;
+}
+
+.lista {
+  width: 100%;
+}
+.tabla {
+  padding-left: 30px;
+}
+.year {
+  font-weight: bolder;
+}
+
+.img_header {
+  width: 300px;
+  height: 300px;
+  padding: auto;
+}
